@@ -1,0 +1,5 @@
+dataset,row_count,percentage_of_raw
+Raw transactions,541909,100.0
+Clean transactions,535187,98.76
+Valid completed sales,524878,96.86
+Customer sales,392692,72.46

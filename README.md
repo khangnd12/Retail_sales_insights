@@ -86,8 +86,8 @@ The project will include:
 * [x] Created the virtual environment
 * [x] Installed the required libraries
 * [x] Created the GitHub repository
-* [ ] Completed the data audit
-* [ ] Cleaned the dataset
+* [x] Completed the data audit
+* [x] Cleaned the dataset
 * [ ] Calculated business KPIs
 * [ ] Created visualizations
 * [ ] Completed customer segmentation
