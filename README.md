@@ -88,7 +88,7 @@ The project will include:
 * [x] Created the GitHub repository
 * [x] Completed the data audit
 * [x] Cleaned the dataset
-* [ ] Calculated business KPIs
+* [x] Calculated business KPIs
 * [ ] Created visualizations
 * [ ] Completed customer segmentation
 * [ ] Written the final findings
