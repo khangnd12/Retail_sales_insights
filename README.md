@@ -89,7 +89,17 @@ The project will include:
 * [x] Completed the data audit
 * [x] Cleaned the dataset
 * [x] Calculated business KPIs
-* [ ] Created visualizations
+* [x] Created visualizations
 * [ ] Completed customer segmentation
 * [ ] Written the final findings
 
+## Visualizations
+
+The current analysis includes:
+
+- Monthly gross revenue
+- Monthly completed orders
+- Top countries by revenue
+- Top products by revenue
+- Order-value distribution
+- Customer-revenue distribution
