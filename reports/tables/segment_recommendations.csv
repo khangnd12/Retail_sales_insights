@@ -1,0 +1,8 @@
+segment,customers,customer_share_pct,revenue,revenue_share_pct,average_recency,average_frequency,average_customer_value,recommended_action
+Champions,649,14.96081143384048,4712279.95,53.023170786290294,7.975346687211094,13.023112480739599,7260.831972265023,"Reward and retain these customers with early access, loyalty benefits, and personalized offers."
+Loyal Customers,692,15.952051636698938,1981815.251,22.29963619216803,26.637283236994218,5.7485549132947975,2863.8948713872833,"Encourage repeat purchasing through loyalty rewards, bundles, and relevant cross-selling."
+At Risk,489,11.272475795297373,1047123.351,11.78236455887677,110.36196319018404,4.539877300613497,2141.35654601227,"Prioritize reactivation campaigns, especially for historically high-value customers."
+Needs Attention,965,22.245274319963116,607550.461,6.836234730683264,116.98963730569949,1.7430051813471503,629.5859699481865,Review purchasing patterns and test targeted offers before assigning heavy marketing investment.
+Potential Loyalists,446,10.281235592438911,266995.89,3.0042715680989147,23.32511210762332,2.304932735426009,598.6454932735427,Use follow-up campaigns and second-purchase incentives to develop these customers into loyal customers.
+Hibernating,1002,23.09820193637621,240737.701,2.708811099990332,201.43812375249502,1.0748502994011977,240.25718662674652,Use low-cost re-engagement campaigns and avoid expensive discounts unless previous value justifies them.
+New Customers,95,2.18994928538497,30706.29,0.3455110638924069,10.284210526315789,1.0,323.2241052631579,"Provide onboarding messages, product recommendations, and a time-limited second-order offer."

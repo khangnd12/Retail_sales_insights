@@ -90,7 +90,7 @@ The project will include:
 * [x] Cleaned the dataset
 * [x] Calculated business KPIs
 * [x] Created visualizations
-* [ ] Completed customer segmentation
+* [x] Completed customer segmentation
 * [ ] Written the final findings
 
 ## Visualizations
@@ -103,3 +103,15 @@ The current analysis includes:
 - Top products by revenue
 - Order-value distribution
 - Customer-revenue distribution
+
+## Customer Segmentation
+
+Known customers are grouped using RFM analysis:
+
+- Recency: time since the latest purchase
+- Frequency: number of completed orders
+- Monetary: total customer revenue
+
+The segments include champions, loyal customers, potential loyalists, new
+customers, at-risk customers, hibernating customers, and customers needing
+attention.
