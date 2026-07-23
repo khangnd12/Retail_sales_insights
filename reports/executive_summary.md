@@ -21,35 +21,35 @@ analysis only included transactions with known customer IDs.
 - Completed orders: **19,960**
 - Known customers: **4,338**
 - Average order value: **533.17**
-- Cancellation rate: **15.69%**
+- Cancellation rate: **1.73%**
 
 ## Main Sales Findings
 1. **Overall Performance:**
-The business shows strong performance! The dataset records a total revenue of £10,642,110.80 
-generated from 19,962 completed orders, resulting in a solid Average Order Value (AOV) of 
-£543.11.
+The business shows strong performance! The dataset records a total revenue of **£10,642,110.80** 
+generated from **19,962** completed orders, resulting in a solid Average Order Value (AOV) of 
+**£543.11.**
 
 2. **Monthly Performance:**
-November 2011 stands out as the peak month for sales. However, the data for the very first and 
+**November 2011** stands out as the peak month for sales. However, the data for the very first and 
 last months appears to be incomplete. These periods should be excluded before comparing monthly 
 trends to avoid skewed results.
 
 3. **Market Concentration:**
-The United Kingdom drives the vast majority of the sales. This indicates a high dependence on a 
+**The United Kingdom** drives the vast majority of the sales. This indicates a high dependence on a 
 single market, exposing the business to potential regional risks.
 
 4. **Product Performance:**
-Interestingly, the top revenue generator isn't a physical item, but DOTCOM POSTAGE (shipping fees). 
+Interestingly, the top revenue generator isn't a physical item, but **DOTCOM POSTAGE** (shipping fees). 
 This finding also highlights that products with the highest sales volume do not always bring in the 
 most money for the company.
 
 5. **Customer Concentration:**
-The Top 10 VIP customers account for 10.82% of the known customer revenue. This reflects a moderate 
+The Top 10 VIP customers account for **10.82%** of the known customer revenue. This reflects a moderate 
 dependence on a small buyer group, suggesting that the company should maintain a targeted retention 
 strategy to keep these key clients engaged.
 
 6. **Cancellations:**
-The overall cancellation rate is notably low at just 1.73%. As a next analytical step, it would be 
+The overall cancellation rate is notably low at just **1.73%.** As a next analytical step, it would be 
 highly beneficial to drill down and see if these canceled invoices are tied to specific products or 
 countries to identify any root causes.
 
